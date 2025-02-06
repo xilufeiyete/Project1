@@ -46,11 +46,11 @@ void c() {
 	cout << "ÇëÊäÈëÐÐÊý" << endl;
 	int rows;
 	cin >> rows;
-	char ch[20];
+	char ch2[20]="a";
 	for (int i = rows-1;i>=0;i--) {
 		for (int j = 0;j <i;j++)
-			ch[j] = '.';
-		ch[i] = '*';
-		cout << ch << endl;
+			ch2[j] = '.';
+		ch2[i] = '*';
+		cout << ch2 << endl;
 	}
 }
