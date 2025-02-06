@@ -1,5 +1,7 @@
 #include<iostream>
 
+#include "chinese_test.h"
+
 int main()
 {
 	using namespace std;
@@ -15,6 +17,9 @@ int main()
 	{
 		sum += i;
 	}
-	cout << a << " 帕秋莉！ " << b << " ֮够！ " << sum << endl;
+	cout << a << " 帕秋莉！ " << b << "够！" << sum << endl;
+
+	ChineseOutput();
+
 	return 0;
 }
