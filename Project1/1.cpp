@@ -3,7 +3,7 @@
 int main()
 {
 	using namespace std;
-	cout << "输入两个整数，程序将计算两个整数之间所有整数的和" << endl;
+	cout << "输入两个整数，程序将计算两个整数之间所有整数的和捏" << endl;
 	cout << "请输入较小的整数" << endl;
 	int a;
 	cin >> a;
