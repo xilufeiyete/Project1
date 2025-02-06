@@ -128,7 +128,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1.cpp" />
-    <ClCompile Include="2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="chinese_test.h" />
